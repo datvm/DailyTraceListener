@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Luke Vo</Authors>
+    <Product>Daily Trace Listener</Product>
+    <Description>A small and simple TraceListener for .NET that writes log files by day.</Description>
+    <Copyright>Copyright 2018 Luke Vo</Copyright>
+    <PackageLicenseUrl>https://github.com/datvm/DailyTraceListener/blob/master/LICENSE.MD</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/datvm/DailyTraceListener</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/datvm/DailyTraceListener</RepositoryUrl>
+    <PackageTags>trace log tracelistener day utility logging tracing</PackageTags>
+    <PackageReleaseNotes>https://github.com/datvm/DailyTraceListener/releases</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
